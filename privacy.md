@@ -8,7 +8,7 @@ Deutsch | [English](#english)
 
 # Datenschutzerklärung
 
-Easy Invoices · Stand: 1. November 2026
+Easy Invoices · Stand: 2. November 2026
 
 ## 1. Verantwortliche
 
@@ -26,7 +26,7 @@ Easy Invoices funktioniert ohne Benutzerkonto und ohne Cloud. Ihre Firmendaten, 
 
 ## 3. Daten auf Ihrem Gerät
 
-Die App speichert auf Ihrem Gerät Angaben zu Ihrem Unternehmen, zu Ihren Kunden (zum Beispiel Name, Anschrift, USt-IdNr., E-Mail-Adresse), zu Produkten und Leistungen, Rechnungen, Ihr Logo und Ihre Unterschrift, Notizen zu Kunden und Einstellungen. Zweck ist die Erstellung, Verwaltung und Aufbewahrung Ihrer Rechnungen.
+Die App speichert auf Ihrem Gerät Angaben zu Ihrem Unternehmen, zu Ihren Kunden (zum Beispiel Name, Anschrift, USt-IdNr., E-Mail-Adresse), zu Produkten und Leistungen, Rechnungen, Ihr Logo und Ihre Unterschrift, Notizen zu Kunden und Einstellungen, außerdem Ihre Bankverbindung (IBAN), soweit Sie diese eintragen, sowie Wiederholungsrechnungen und Zahlungserinnerungen. Zweck ist die Erstellung, Verwaltung und Aufbewahrung Ihrer Rechnungen.
 
 Diese Daten verlassen Ihr Gerät nur, wenn Sie dies selbst veranlassen, zum Beispiel durch das Teilen oder Exportieren einer Rechnung oder einer Sicherungsdatei. Je nach den Einstellungen Ihres Geräts können auch die Sicherungsfunktionen Ihres Betriebssystems (zum Beispiel Google-Sicherung) App-Daten erfassen. Das steuern Sie und der Anbieter Ihres Betriebssystems, nicht wir.
 
@@ -35,6 +35,10 @@ Für die Daten Ihrer Kunden, die Sie in der App erfassen, sind Sie selbst datens
 ## 4. Öffnen von Dateien
 
 Dateien, die Sie in der App öffnen (zum Beispiel eingehende Rechnungen im Format XRechnung oder ZUGFeRD), werden ausschließlich lokal auf Ihrem Gerät verarbeitet.
+
+## 4a. Zahlungs-QR-Code, Zahlungserinnerungen und Wiederholungsrechnungen
+
+Auf Wunsch fügt die App einer Rechnung einen Zahlungs-QR-Code (GiroCode/EPC-QR-Code) hinzu. Er wird auf Ihrem Gerät aus Ihrem Firmennamen, Ihrer IBAN, dem Rechnungsbetrag und der Rechnungsnummer erzeugt und ist Teil des PDF-Dokuments. Dabei findet keine Übertragung an uns oder Dritte statt. Zahlungserinnerungen und Mahnungen sowie Entwürfe wiederkehrender Rechnungen erstellt die App ebenfalls ausschließlich lokal auf Ihrem Gerät. Die Übersicht (Dashboard) mit offenen und überfälligen Beträgen wird lokal aus Ihren gespeicherten Rechnungen berechnet. Die App versendet keine Rechnungen, Erinnerungen oder Mahnungen selbst; ein Versand erfolgt nur, wenn Sie das Dokument über Ihr Gerät teilen oder senden.
 
 ## 5. Abonnement über Google Play
 
@@ -53,6 +57,8 @@ Die App enthält keine Werbung, keine Werbe-ID und keine Analyse- oder Absturzbe
 ## 8. Berechtigungen
 
 Die App benötigt Internetzugriff, um den Status Ihres Abonnements bei Google Play abzufragen. Die optionale App-Sperre nutzt die Bildschirmsperre oder Biometrie Ihres Geräts; die App erhält dabei nur das Ergebnis der Prüfung, keine biometrischen Daten. Dateien öffnen und speichern Sie über den Dateidialog Ihres Betriebssystems.
+
+Benachrichtigungen: Wenn Sie Erinnerungen einschalten, fragt die App nach der Berechtigung zum Anzeigen von Benachrichtigungen (Android: POST_NOTIFICATIONS). Die Berechtigung ist freiwillig; ohne sie funktioniert die App vollständig, es werden nur keine Erinnerungen angezeigt. Die Erinnerungen an fällige und überfällige Rechnungen sowie an wiederkehrende Rechnungen werden lokal auf Ihrem Gerät geplant und angezeigt. Sie enthalten zum Beispiel Rechnungsnummer, Kundenname und Betrag, werden aber weder an uns noch an Dritte übertragen und nicht über einen Push-Dienst oder Server versendet. Sie können die Erinnerungen in der App und die Berechtigung jederzeit in den Systemeinstellungen Ihres Geräts ausschalten. Beachten Sie, dass Inhalte von Benachrichtigungen je nach Einstellung auf dem Sperrbildschirm sichtbar sein können.
 
 Die Kamera wird nur verwendet, wenn Sie einen Barcode oder QR-Code scannen oder ein Foto Ihrer Unterschrift aufnehmen. Die Aufnahmen werden ausschließlich lokal auf Ihrem Gerät verarbeitet und nicht übertragen. Ein Logo oder eine Unterschrift wählen Sie über die Auswahl Ihres Betriebssystems aus Ihren Fotos oder Dateien; die App erhält nur die ausgewählte Datei. Wenn Sie einen Kontakt aus Ihrem Adressbuch übernehmen, zeigt Ihr Betriebssystem eine Kontaktauswahl; die App erhält nur den von Ihnen gewählten Kontakt und hat keinen Zugriff auf Ihr gesamtes Adressbuch. Wenn Sie die App bewerten, wird Google Play geöffnet; dort gelten die Datenschutzbestimmungen von Google.
 
@@ -96,7 +102,7 @@ Wir können diese Erklärung anpassen, wenn sich die App oder die Rechtslage än
 
 # Privacy Policy
 
-Easy Invoices · Last updated: 1 November 2026
+Easy Invoices · Last updated: 2 November 2026
 
 ## 1. Controller
 
@@ -114,7 +120,7 @@ Easy Invoices works without a user account and without a cloud. Your company dat
 
 ## 3. Data on your device
 
-The app stores details about your business, your clients (for example name, address, VAT ID, email address), products and services, invoices, your logo and signature, notes about clients and settings on your device. The purpose is to create, manage and keep your invoices.
+The app stores details about your business, your clients (for example name, address, VAT ID, email address), products and services, invoices, your logo and signature, notes about clients and settings on your device, as well as your bank details (IBAN) if you enter them, and recurring invoices and payment reminders. The purpose is to create, manage and keep your invoices.
 
 This data leaves your device only when you trigger it, for example by sharing or exporting an invoice or a backup file. Depending on your device settings, your operating system's backup features (for example Google backup) may also include app data. You and your operating system provider control this, not us.
 
@@ -123,6 +129,10 @@ You are responsible under data protection law for the data of your clients that 
 ## 4. Opening files
 
 Files you open in the app (for example incoming invoices in XRechnung or ZUGFeRD format) are processed exclusively on your device.
+
+## 4a. Payment QR code, payment reminders and recurring invoices
+
+On request, the app adds a payment QR code (GiroCode/EPC QR code) to an invoice. It is generated on your device from your company name, your IBAN, the invoice amount and the invoice number, and is part of the PDF document. Nothing is transmitted to us or to third parties. Payment reminders and dunning letters, as well as drafts of recurring invoices, are likewise created exclusively on your device. The dashboard showing open and overdue amounts is calculated locally from your stored invoices. The app does not send invoices, reminders or dunning letters itself; a document is sent only when you share or send it through your device.
 
 ## 5. Subscription through Google Play
 
@@ -141,6 +151,8 @@ The app contains no advertising, no advertising ID, and no third-party analytics
 ## 8. Permissions
 
 The app needs internet access to check your subscription status with Google Play. The optional app lock uses your device's screen lock or biometrics; the app receives only the result of the check, never biometric data. You open and save files through your operating system's file dialog.
+
+Notifications: If you switch on reminders, the app asks for permission to show notifications (Android: POST_NOTIFICATIONS). The permission is optional; without it the app works fully, it just does not show reminders. Reminders about due and overdue invoices and about recurring invoices are scheduled and shown locally on your device. They contain, for example, the invoice number, client name and amount, but are not transmitted to us or to third parties and are not sent through any push service or server. You can switch reminders off in the app and the permission at any time in your device's system settings. Note that, depending on your settings, notification content may be visible on the lock screen.
 
 The camera is used only when you scan a barcode or QR code or take a photo of your signature. Recordings are processed exclusively on your device and are not transmitted. You select a logo or signature through your operating system's picker from your photos or files; the app receives only the file you select. If you import a contact from your address book, your operating system shows a contact picker; the app receives only the contact you choose and has no access to your entire address book. If you rate the app, Google Play opens; Google's privacy policy applies there.
 

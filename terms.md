@@ -8,7 +8,7 @@ Deutsch | [English](#english)
 
 # Nutzungsbedingungen
 
-Easy Invoices · Stand: 1. November 2026
+Easy Invoices · Stand: 2. November 2026
 
 ## 1. Anbieterin und Geltungsbereich
 
@@ -16,7 +16,7 @@ Anbieterin der App „Easy Invoices“ ist Sarra Kouki, Luisenstraße 99, 47799 
 
 ## 2. Leistung
 
-Die App unterstützt Sie bei der Erstellung, Verwaltung und dem Lesen von Rechnungen, auch in elektronischen Formaten (zum Beispiel XRechnung und ZUGFeRD/Factur-X). Die App ist keine Steuer-, Rechts- oder Buchhaltungsberatung und kein GoBD-konformes Archivsystem.
+Die App unterstützt Sie bei der Erstellung, Verwaltung und dem Lesen von Rechnungen, auch in elektronischen Formaten (zum Beispiel XRechnung und ZUGFeRD/Factur-X). Die App ist keine Steuer-, Rechts- oder Buchhaltungsberatung und kein GoBD-konformes Archivsystem. Erinnerungen, Zahlungs-QR-Codes und Mahnungen sind Hilfsmittel; Sie bleiben dafür verantwortlich, Fristen, Zahlungsdaten und Inhalte zu prüfen.
 
 ## 3. Kostenlose Nutzung und Pro-Version
 
@@ -72,7 +72,7 @@ Sollten einzelne Bestimmungen dieser Bedingungen unwirksam sein, bleibt die Wirk
 
 # Terms of Use
 
-Easy Invoices · Last updated: 1 November 2026
+Easy Invoices · Last updated: 2 November 2026
 
 ## 1. Provider and scope
 
@@ -80,7 +80,7 @@ The provider of the app "Easy Invoices" is Sarra Kouki, Luisenstraße 99, 47799 
 
 ## 2. Service
 
-The app helps you create, manage and read invoices, including electronic formats (for example XRechnung and ZUGFeRD/Factur-X). The app is not tax, legal or accounting advice and not a GoBD-compliant archive system.
+The app helps you create, manage and read invoices, including electronic formats (for example XRechnung and ZUGFeRD/Factur-X). The app is not tax, legal or accounting advice and not a GoBD-compliant archive system. Reminders, payment QR codes and dunning letters are aids; you remain responsible for checking deadlines, payment details and content.
 
 ## 3. Free use and Pro version
 
